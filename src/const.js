@@ -1,0 +1,3 @@
+const EVENT_POINTS_AMOUNT = 3;
+
+export { EVENT_POINTS_AMOUNT };
